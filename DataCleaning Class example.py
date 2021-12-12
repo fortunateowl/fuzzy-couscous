@@ -15,14 +15,6 @@ arr2 = np.array([1, 3, 9, 11, 13, 15, 17, 19, " ", 23, 25, 27, 29, 1, 3,
                  9, 11, 13, 15, "?", 19, 21, 23, 25, 27, 29, 1, 3, 9, 11, 
                  13, 15, 17, "?", 21, 23, 25, 27, 29])
 
-
-# Function to remove outliers from arr1.
-# Takes the argument x that is a numpy array
-# Note that the function does not overwrite the varible, but returns an array x
-# that can be used to overwrite arr1 or any numpy array of numbers.
-
-
-
     
 d = DC()
 
